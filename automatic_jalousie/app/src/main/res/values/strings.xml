@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutomaticJalousie</string>
+    <string name="text">text</string>
+    <string name="show_paired_devices">show paired devices</string>
+    <string name="brightness">Brightness</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="disconnect">disconnect</string>
+    <string name="auto">auto</string>
+    <string name="manual">manual</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
